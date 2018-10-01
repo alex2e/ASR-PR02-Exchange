@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="amount">Amount</string>
+    <string name="from_currency">From currency</string>
+    <string name="dollar">Dollar</string>
+    <string name="euro">Euro</string>
+    <string name="pound">Pound</string>
+    <string name="to_currency">To currency</string>
+    <string name="exchange">Exchange</string>
+    <string name="_0_00">0.00</string>
+</resources>
